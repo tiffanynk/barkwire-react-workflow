@@ -1,0 +1,22 @@
+img{
+  max-width: 100%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+/* 
+.dogs img {
+  width: 200px;
+} */
+
+.dogs li {
+  display: flex;
+  flex-direction: row wrap;
+  margin-bottom: 1rem;
+}
+
+.dogs section {
+  padding: 1rem;
+}

@@ -1,0 +1,14 @@
+img{
+    max-width: 50%;
+  }
+  
+  
+  .dogs li {
+    display: flex;
+    flex-direction: row wrap;
+    margin-bottom: 1rem;
+  }
+  
+  .dogs section {
+    padding: 1rem;
+  }
